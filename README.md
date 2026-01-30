@@ -9,7 +9,7 @@ Vision Photography is a creative photography portfolio website built to capture 
 
 ## 🛠 Setup Instructions  
 1. Clone the repository:  
-   `git clone https://github.com/your-username/vision-photography.git`  
+   `git clone https://github.com/Ryanamni-ctrl/vision-photography.git`  
 2. Navigate into the project folder:  
    `cd vision-photography`  
 3. Open `index.html` in your browser.  
