@@ -5,7 +5,7 @@
 Vision Photography is a creative photography portfolio website built to capture emotion, light, and storytelling through images. The project uses a cinematic dark theme to allow photographs to stand out while keeping the layout clean, modern, and easy to navigate. It features a hero section, biography, gallery of favorite images, design review, and a contact form for users to interact with the site.  
 
 ## 🚀 Live Site  
-https://github.com/Ryanamani-ctrl/photography.git 
+ https://ryanamani-ctrl.github.io/photography/
 
 ## 🛠 Setup Instructions  
 1. Clone the repository:  
